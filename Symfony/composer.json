@@ -1,0 +1,16 @@
+{
+    "name": "anael/symfony",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Anael\\Symfony\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anae Lawani",
+            "email": "anae.lawani@gmail.com"
+        }
+    ],
+    "require": {}
+}
